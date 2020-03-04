@@ -1,0 +1,7 @@
+## files/folders to ignore
+
+node_modules/
+
+.idea/
+
+*.iml
